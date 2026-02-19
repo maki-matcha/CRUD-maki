@@ -26,7 +26,6 @@ import {
   ModalHeader,
   ModalCloseButton,
   ModalBody,
-  Image,
   useDisclosure,
   Table,
   Thead,
@@ -43,7 +42,7 @@ import {
   FaRocket, 
   FaListUl, 
   FaFileUpload,
-  FaExternalLinkAlt,
+
   FaSort
 } from 'react-icons/fa';
 

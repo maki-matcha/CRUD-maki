@@ -188,7 +188,7 @@ function App() {
       console.error(err);
     }
   };
-
+// --- 4. DELETE BUG (DELETE from Server) --
   // --- 4. DELETE BUG (DELETE from Server) ---
   const deleteBug = async (id) => {
     try {
